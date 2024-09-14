@@ -1,2 +1,2 @@
 # Homework
-# Путь к файлу с дз: Src/Main.jav
+# Путь к файлу с дз: Src/Main.java
